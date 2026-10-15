@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1,
+    "name": "Salat blanc",
+    "scientific": "Atriplex halimus",
+    "label": "Salat blanc (Atriplex halimus)",
+    "description": "",
+    "image": "img/species_001.jpg",
+    "page": 6,
+    "slot": "top"
+  },
+  {
+    "id": 2,
+    "name": "Llistó",
+    "scientific": "Brachypodium ramosum",
+    "label": "Llistó (Brachypodium ramosum)",
+    "description": "",
+    "image": "img/species_002.jpg",
+    "page": 6,
+    "slot": "bottom"
+  },
+  {
+    "id": 3,
+    "name": "Boix",
+    "scientific": "Buxus sempervirens",
+    "label": "Boix (Buxus sempervirens)",
+    "description": "",
+    "image": "img/species_003.jpg",
+    "page": 7,
+    "slot": "top"
+  },
+  {
+    "id": 4,
+    "name": "Estepa blanca",
+    "scientific": "Cistus albidus",
+    "label": "Estepa blanca (Cistus albidus)",
+    "description": "",
+    "image": "img/species_004.jpg",
+    "page": 7,
+    "slot": "bottom"
+  },
+  {
+    "id": 5,
+    "name": "Matapoll",
+    "scientific": "Daphne gnidium",
+    "label": "Matapoll (Daphne gnidium)",
+    "description": "",
+    "image": "img/species_005.jpg",
+    "page": 8,
+    "slot": "top"
+  },
+  {
+    "id": 6,
+    "name": "Bruc boal",
+    "scientific": "Erica arborea",
+    "label": "Bruc boal (Erica arborea)",
+    "description": "",
+    "image": "img/species_006.jpg",
+    "page": 8,
+    "slot": "bottom"
+  },
+  {
+    "id": 7,
+    "name": "Bruc d’escombres",
+    "scientific": "Erica scoparia",
+    "label": "Bruc d’escombres (Erica scoparia)",
+    "description": "",
+    "image": "img/species_007.jpg",
+    "page": 9,
+    "slot": "top"
+  },
+  {
+    "id": 8,
+    "name": "Argelaga",
+    "scientific": "Genista scorpius",
+    "label": "Argelaga (Genista scorpius)",
+    "description": "",
+    "image": "img/species_008.jpg",
+    "page": 9,
+    "slot": "bottom"
+  },
+  {
+    "id": 9,
+    "name": "Esteperola",
+    "scientific": "Halimium sp.",
+    "label": "Esteperola (Halimium sp.)",
+    "description": "",
+    "image": "img/species_009.jpg",
+    "page": 10,
+    "slot": "top"
+  },
+  {
+    "id": 10,
+    "name": "Ginebró",
+    "scientific": "Juniperus communis",
+    "label": "Ginebró (Juniperus communis)",
+    "description": "",
+    "image": "img/species_010.jpg",
+    "page": 10,
+    "slot": "bottom"
+  },
+  {
+    "id": 11,
+    "name": "Càdec",
+    "scientific": "Juniperus oxycedrus",
+    "label": "Càdec (Juniperus oxycedrus)",
+    "description": "",
+    "image": "img/species_011.jpg",
+    "page": 11,
+    "slot": "top"
+  },
+  {
+    "id": 12,
+    "name": "Espígol",
+    "scientific": "Lavandula sp.",
+    "label": "Espígol (Lavandula sp.)",
+    "description": "",
+    "image": "img/species_012.jpg",
+    "page": 11,
+    "slot": "bottom"
+  },
+  {
+    "id": 13,
+    "name": "Ullastre, olivera",
+    "scientific": "Olea europea var. sylvestris",
+    "label": "Ullastre, olivera (Olea europea var. sylvestris)",
+    "description": "",
+    "image": "img/species_013.jpg",
+    "page": 12,
+    "slot": "top"
+  },
+  {
+    "id": 14,
+    "name": "Ruac",
+    "scientific": "Ononis tridentata",
+    "label": "Ruac (Ononis tridentata)",
+    "description": "",
+    "image": "img/species_014.jpg",
+    "page": 12,
+    "slot": "bottom"
+  },
+  {
+    "id": 15,
+    "name": "Ginestó",
+    "scientific": "Osyris alba",
+    "label": "Ginestó (Osyris alba)",
+    "description": "",
+    "image": "img/species_015.jpg",
+    "page": 13,
+    "slot": "top"
+  },
+  {
+    "id": 16,
+    "name": "Aladern de fulla estreta",
+    "scientific": "Phillyrea angustifolia",
+    "label": "Aladern de fulla estreta (Phillyrea angustifolia)",
+    "description": "",
+    "image": "img/species_016.jpg",
+    "page": 13,
+    "slot": "bottom"
+  },
+  {
+    "id": 17,
+    "name": "Aladern fals",
+    "scientific": "Phillyrea media",
+    "label": "Aladern fals (Phillyrea media)",
+    "description": "",
+    "image": "img/species_017.jpg",
+    "page": 14,
+    "slot": "top"
+  },
+  {
+    "id": 18,
+    "name": "Llentiscle",
+    "scientific": "Pistacia lentiscus",
+    "label": "Llentiscle (Pistacia lentiscus)",
+    "description": "",
+    "image": "img/species_018.jpg",
+    "page": 14,
+    "slot": "bottom"
+  },
+  {
+    "id": 19,
+    "name": "Noguerola",
+    "scientific": "Pistacia terebinthus",
+    "label": "Noguerola (Pistacia terebinthus)",
+    "description": "",
+    "image": "img/species_019.jpg",
+    "page": 15,
+    "slot": "top"
+  },
+  {
+    "id": 20,
+    "name": "Garric",
+    "scientific": "Quercus coccifera",
+    "label": "Garric (Quercus coccifera)",
+    "description": "",
+    "image": "img/species_020.jpg",
+    "page": 15,
+    "slot": "bottom"
+  },
+  {
+    "id": 21,
+    "name": "Aladern",
+    "scientific": "Rhamnus alaternus",
+    "label": "Aladern (Rhamnus alaternus)",
+    "description": "",
+    "image": "img/species_021.jpg",
+    "page": 16,
+    "slot": "top"
+  },
+  {
+    "id": 22,
+    "name": "Arçot",
+    "scientific": "Rhamnus lycioides",
+    "label": "Arçot (Rhamnus lycioides)",
+    "description": "",
+    "image": "img/species_022.jpg",
+    "page": 16,
+    "slot": "bottom"
+  },
+  {
+    "id": 23,
+    "name": "Romaní",
+    "scientific": "Rosmarinus officinalis",
+    "label": "Romaní (Rosmarinus officinalis)",
+    "description": "",
+    "image": "img/species_023.jpg",
+    "page": 17,
+    "slot": "top"
+  },
+  {
+    "id": 24,
+    "name": "Rogeta/Roja",
+    "scientific": "Rubia peregrina",
+    "label": "Rogeta/Roja (Rubia peregrina)",
+    "description": "",
+    "image": "img/species_024.jpg",
+    "page": 17,
+    "slot": "bottom"
+  },
+  {
+    "id": 25,
+    "name": "Esbarzer",
+    "scientific": "Rubus sp.",
+    "label": "Esbarzer (Rubus sp.)",
+    "description": "",
+    "image": "img/species_025.jpg",
+    "page": 18,
+    "slot": "top"
+  },
+  {
+    "id": 26,
+    "name": "Galzeran",
+    "scientific": "Ruscus aculeatus",
+    "label": "Galzeran (Ruscus aculeatus)",
+    "description": "",
+    "image": "img/species_026.jpg",
+    "page": 18,
+    "slot": "bottom"
+  },
+  {
+    "id": 27,
+    "name": "Farigola",
+    "scientific": "Thymus vulgaris",
+    "label": "Farigola (Thymus vulgaris)",
+    "description": "",
+    "image": "img/species_027.jpg",
+    "page": 19,
+    "slot": "top"
+  },
+  {
+    "id": 28,
+    "name": "Gatosa",
+    "scientific": "Ulex parviflorus",
+    "label": "Gatosa (Ulex parviflorus)",
+    "description": "",
+    "image": "img/species_028.jpg",
+    "page": 19,
+    "slot": "bottom"
+  },
+  {
+    "id": 29,
+    "name": "Marfull",
+    "scientific": "Viburnum tinus",
+    "label": "Marfull (Viburnum tinus)",
+    "description": "",
+    "image": "img/species_029.jpg",
+    "page": 20,
+    "slot": "top"
+  },
+  {
+    "id": 30,
+    "name": "Heura",
+    "scientific": "Hedera helix",
+    "label": "Heura (Hedera helix)",
+    "description": "",
+    "image": "img/species_030.jpg",
+    "page": 20,
+    "slot": "bottom"
+  },
+  {
+    "id": 31,
+    "name": "Arítjol",
+    "scientific": "Smilax aspera",
+    "label": "Arítjol (Smilax aspera)",
+    "description": "",
+    "image": "img/species_031.jpg",
+    "page": 21,
+    "slot": "top"
+  },
+  {
+    "id": 32,
+    "name": "Avet",
+    "scientific": "Abies alba",
+    "label": "Avet (Abies alba)",
+    "description": "",
+    "image": "img/species_032.jpg",
+    "page": 21,
+    "slot": "bottom"
+  },
+  {
+    "id": 33,
+    "name": "Pi blanc",
+    "scientific": "Pinus halepensis",
+    "label": "Pi blanc (Pinus halepensis)",
+    "description": "",
+    "image": "img/species_033.jpg",
+    "page": 22,
+    "slot": "top"
+  },
+  {
+    "id": 34,
+    "name": "Pi negre",
+    "scientific": "Pinus uncinata",
+    "label": "Pi negre (Pinus uncinata)",
+    "description": "",
+    "image": "img/species_034.jpg",
+    "page": 22,
+    "slot": "bottom"
+  },
+  {
+    "id": 35,
+    "name": "Pi pinyer",
+    "scientific": "Pinus pinea",
+    "label": "Pi pinyer (Pinus pinea)",
+    "description": "",
+    "image": "img/species_035.jpg",
+    "page": 23,
+    "slot": "top"
+  },
+  {
+    "id": 36,
+    "name": "Pi roig",
+    "scientific": "Pinus sylvestris",
+    "label": "Pi roig (Pinus sylvestris)",
+    "description": "",
+    "image": "img/species_036.jpg",
+    "page": 23,
+    "slot": "bottom"
+  },
+  {
+    "id": 37,
+    "name": "Pinassa",
+    "scientific": "Pinus nigra",
+    "label": "Pinassa (Pinus nigra)",
+    "description": "",
+    "image": "img/species_037.jpg",
+    "page": 24,
+    "slot": "top"
+  },
+  {
+    "id": 38,
+    "name": "Pinastre",
+    "scientific": "Pinus pinaster",
+    "label": "Pinastre (Pinus pinaster)",
+    "description": "",
+    "image": "img/species_038.jpg",
+    "page": 24,
+    "slot": "bottom"
+  },
+  {
+    "id": 39,
+    "name": "Teix",
+    "scientific": "Taxus baccata",
+    "label": "Teix (Taxus baccata)",
+    "description": "",
+    "image": "img/species_039.jpg",
+    "page": 25,
+    "slot": "top"
+  },
+  {
+    "id": 40,
+    "name": "Seba",
+    "scientific": "Cymodea nodosa",
+    "label": "Seba (Cymodea nodosa)",
+    "description": "",
+    "image": "img/species_040.jpg",
+    "page": 25,
+    "slot": "bottom"
+  },
+  {
+    "id": 41,
+    "name": "Alga dels vidriers",
+    "scientific": "Posidonia oceanica",
+    "label": "Alga dels vidriers (Posidonia oceanica)",
+    "description": "",
+    "image": "img/species_041.jpg",
+    "page": 26,
+    "slot": "top"
+  },
+  {
+    "id": 42,
+    "name": "Zostera marina i algueró",
+    "scientific": "Zostera marina; Zostera noltei",
+    "label": "Zostera marina (Zostera marina) i algueró (Zostera noltei)",
+    "description": "",
+    "image": "img/species_042.jpg",
+    "page": 26,
+    "slot": "bottom"
+  },
+  {
+    "id": 43,
+    "name": "Acònit o tora blava",
+    "scientific": "Aconitum napellus",
+    "label": "Acònit o tora blava (Aconitum napellus)",
+    "description": "",
+    "image": "img/species_043.jpg",
+    "page": 27,
+    "slot": "top"
+  },
+  {
+    "id": 44,
+    "name": "Genciana groga",
+    "scientific": "Gentiana lutea",
+    "label": "Genciana groga (Gentiana lutea)",
+    "description": "",
+    "image": "img/species_044.jpg",
+    "page": 27,
+    "slot": "bottom"
+  },
+  {
+    "id": 45,
+    "name": "Flor de neu",
+    "scientific": "Leontopodium nivale subsp. alpinum",
+    "label": "Flor de neu (Leontopodium nivale subsp. alpinum)",
+    "description": "",
+    "image": "img/species_045.jpg",
+    "page": 28,
+    "slot": "top"
+  },
+  {
+    "id": 46,
+    "name": "Belleraca",
+    "scientific": "Heracleum sphondylium",
+    "label": "Belleraca (Heracleum sphondylium)",
+    "description": "",
+    "image": "img/species_046.jpg",
+    "page": 28,
+    "slot": "bottom"
+  },
+  {
+    "id": 47,
+    "name": "Brúcol",
+    "scientific": "Molopospermum peloponnesiacum",
+    "label": "Brúcol (Molopospermum peloponnesiacum)",
+    "description": "",
+    "image": "img/species_047.jpg",
+    "page": 29,
+    "slot": "top"
+  },
+  {
+    "id": 48,
+    "name": "Margalló",
+    "scientific": "Chamaerops humilis",
+    "label": "Margalló (Chamaerops humilis)",
+    "description": "",
+    "image": "img/species_048.jpg",
+    "page": 29,
+    "slot": "bottom"
+  },
+  {
+    "id": 49,
+    "name": "Auró blanc",
+    "scientific": "Acer campestre",
+    "label": "Auró blanc (Acer campestre)",
+    "description": "",
+    "image": "img/species_049.jpg",
+    "page": 30,
+    "slot": "top"
+  },
+  {
+    "id": 50,
+    "name": "Auró negre",
+    "scientific": "Acer monspessulanum",
+    "label": "Auró negre (Acer monspessulanum)",
+    "description": "",
+    "image": "img/species_050.jpg",
+    "page": 30,
+    "slot": "bottom"
+  },
+  {
+    "id": 51,
+    "name": "Blada",
+    "scientific": "Acer opalus",
+    "label": "Blada (Acer opalus)",
+    "description": "",
+    "image": "img/species_051.jpg",
+    "page": 31,
+    "slot": "top"
+  },
+  {
+    "id": 52,
+    "name": "Vern",
+    "scientific": "Alnus glutinosa",
+    "label": "Vern (Alnus glutinosa)",
+    "description": "",
+    "image": "img/species_052.jpg",
+    "page": 31,
+    "slot": "bottom"
+  },
+  {
+    "id": 53,
+    "name": "Bedoll",
+    "scientific": "Betula pendula",
+    "label": "Bedoll (Betula pendula)",
+    "description": "",
+    "image": "img/species_053.jpg",
+    "page": 32,
+    "slot": "top"
+  },
+  {
+    "id": 54,
+    "name": "Castanyer",
+    "scientific": "Castanea sativa",
+    "label": "Castanyer (Castanea sativa)",
+    "description": "",
+    "image": "img/species_054.jpg",
+    "page": 32,
+    "slot": "bottom"
+  },
+  {
+    "id": 55,
+    "name": "Lledoner",
+    "scientific": "Celtis australis",
+    "label": "Lledoner (Celtis australis)",
+    "description": "",
+    "image": "img/species_055.jpg",
+    "page": 33,
+    "slot": "top"
+  },
+  {
+    "id": 56,
+    "name": "Faig",
+    "scientific": "Fagus sylvatica",
+    "label": "Faig (Fagus sylvatica)",
+    "description": "",
+    "image": "img/species_056.jpg",
+    "page": 33,
+    "slot": "bottom"
+  },
+  {
+    "id": 57,
+    "name": "Freixe de fulla petita",
+    "scientific": "Fraxinus angustifolia",
+    "label": "Freixe de fulla petita (Fraxinus angustifolia)",
+    "description": "",
+    "image": "img/species_057.jpg",
+    "page": 34,
+    "slot": "top"
+  },
+  {
+    "id": 58,
+    "name": "Freixe de fulla gran",
+    "scientific": "Fraxinus excelsior",
+    "label": "Freixe de fulla gran (Fraxinus excelsior)",
+    "description": "",
+    "image": "img/species_058.jpg",
+    "page": 34,
+    "slot": "bottom"
+  },
+  {
+    "id": 59,
+    "name": "Boix grèvol",
+    "scientific": "Ilex aquifolium",
+    "label": "Boix grèvol (Ilex aquifolium)",
+    "description": "",
+    "image": "img/species_059.jpg",
+    "page": 35,
+    "slot": "top"
+  },
+  {
+    "id": 60,
+    "name": "Olivera",
+    "scientific": "Olea europaea",
+    "label": "Olivera (Olea europaea)",
+    "description": "",
+    "image": "img/species_060.jpg",
+    "page": 35,
+    "slot": "bottom"
+  },
+  {
+    "id": 61,
+    "name": "Platan",
+    "scientific": "Platanus hispanica",
+    "label": "Platan (Platanus hispanica)",
+    "description": "",
+    "image": "img/species_061.jpg",
+    "page": 36,
+    "slot": "top"
+  },
+  {
+    "id": 62,
+    "name": "Àlber",
+    "scientific": "Populus alba",
+    "label": "Àlber (Populus alba)",
+    "description": "",
+    "image": "img/species_062.jpg",
+    "page": 36,
+    "slot": "bottom"
+  },
+  {
+    "id": 63,
+    "name": "Pollancre",
+    "scientific": "Populus nigra",
+    "label": "Pollancre (Populus nigra)",
+    "description": "",
+    "image": "img/species_063.jpg",
+    "page": 37,
+    "slot": "top"
+  },
+  {
+    "id": 64,
+    "name": "Trèmol",
+    "scientific": "Populus tremula",
+    "label": "Trèmol (Populus tremula)",
+    "description": "",
+    "image": "img/species_064.jpg",
+    "page": 37,
+    "slot": "bottom"
+  },
+  {
+    "id": 65,
+    "name": "Cirerer",
+    "scientific": "Prunus avium",
+    "label": "Cirerer (Prunus avium)",
+    "description": "",
+    "image": "img/species_065.jpg",
+    "page": 38,
+    "slot": "top"
+  },
+  {
+    "id": 66,
+    "name": "Roure de fulla petita",
+    "scientific": "Quercus faginea",
+    "label": "Roure de fulla petita (Quercus faginea)",
+    "description": "",
+    "image": "img/species_066.jpg",
+    "page": 38,
+    "slot": "bottom"
+  },
+  {
+    "id": 67,
+    "name": "Roure martinenc",
+    "scientific": "Quercus humilis",
+    "label": "Roure martinenc (Quercus humilis)",
+    "description": "",
+    "image": "img/species_067.jpg",
+    "page": 39,
+    "slot": "top"
+  },
+  {
+    "id": 68,
+    "name": "Alzina",
+    "scientific": "Quercus ilex",
+    "label": "Alzina (Quercus ilex)",
+    "description": "",
+    "image": "img/species_068.jpg",
+    "page": 39,
+    "slot": "bottom"
+  },
+  {
+    "id": 69,
+    "name": "Roure de fulla gran",
+    "scientific": "Quercus petraea",
+    "label": "Roure de fulla gran (Quercus petraea)",
+    "description": "",
+    "image": "img/species_069.jpg",
+    "page": 40,
+    "slot": "top"
+  },
+  {
+    "id": 70,
+    "name": "Alzina surera",
+    "scientific": "Quercus suber",
+    "label": "Alzina surera (Quercus suber)",
+    "description": "",
+    "image": "img/species_070.jpg",
+    "page": 40,
+    "slot": "bottom"
+  },
+  {
+    "id": 71,
+    "name": "Salze",
+    "scientific": "Salix alba",
+    "label": "Salze (Salix alba)",
+    "description": "",
+    "image": "img/species_071.jpg",
+    "page": 41,
+    "slot": "top"
+  },
+  {
+    "id": 72,
+    "name": "Moixera",
+    "scientific": "Sorbus aria",
+    "label": "Moixera (Sorbus aria)",
+    "description": "",
+    "image": "img/species_072.jpg",
+    "page": 41,
+    "slot": "bottom"
+  },
+  {
+    "id": 73,
+    "name": "Moixera de guilla",
+    "scientific": "Sorbus aucuparia",
+    "label": "Moixera de guilla (Sorbus aucuparia)",
+    "description": "",
+    "image": "img/species_073.jpg",
+    "page": 42,
+    "slot": "top"
+  },
+  {
+    "id": 74,
+    "name": "Servera",
+    "scientific": "Sorbus domestica",
+    "label": "Servera (Sorbus domestica)",
+    "description": "",
+    "image": "img/species_074.jpg",
+    "page": 42,
+    "slot": "bottom"
+  },
+  {
+    "id": 75,
+    "name": "Moixera de pastor",
+    "scientific": "Sorbus torminalis",
+    "label": "Moixera de pastor (Sorbus torminalis)",
+    "description": "",
+    "image": "img/species_075.jpg",
+    "page": 43,
+    "slot": "top"
+  },
+  {
+    "id": 76,
+    "name": "Tamaria",
+    "scientific": "Tamarix sp.",
+    "label": "Tamaria (Tamarix sp.)",
+    "description": "",
+    "image": "img/species_076.jpg",
+    "page": 43,
+    "slot": "bottom"
+  },
+  {
+    "id": 77,
+    "name": "Tell de fulla petita",
+    "scientific": "Tilia cordata",
+    "label": "Tell de fulla petita (Tilia cordata)",
+    "description": "",
+    "image": "img/species_077.jpg",
+    "page": 44,
+    "slot": "top"
+  },
+  {
+    "id": 78,
+    "name": "Tell de fulla gran",
+    "scientific": "Tilia platyphyllos",
+    "label": "Tell de fulla gran (Tilia platyphyllos)",
+    "description": "",
+    "image": "img/species_078.jpg",
+    "page": 44,
+    "slot": "bottom"
+  },
+  {
+    "id": 79,
+    "name": "Om",
+    "scientific": "Ulmus minor",
+    "label": "Om (Ulmus minor)",
+    "description": "",
+    "image": "img/species_079.jpg",
+    "page": 45,
+    "slot": "top"
+  },
+  {
+    "id": 80,
+    "name": "Oma",
+    "scientific": "Ulmus glabra",
+    "label": "Oma (Ulmus glabra)",
+    "description": "",
+    "image": "img/species_080.jpg",
+    "page": 45,
+    "slot": "bottom"
+  },
+  {
+    "id": 81,
+    "name": "Tòfona negra",
+    "scientific": "Tuber melanosporum",
+    "label": "Tòfona negra (Tuber melanosporum)",
+    "description": "",
+    "image": "img/species_081.jpg",
+    "page": 46,
+    "slot": "top"
+  },
+  {
+    "id": 82,
+    "name": "Tòfona gravada",
+    "scientific": "Tuber uncinatum",
+    "label": "Tòfona gravada (Tuber uncinatum)",
+    "description": "",
+    "image": "img/species_082.jpg",
+    "page": 46,
+    "slot": "bottom"
+  },
+  {
+    "id": 83,
+    "name": "Tòfona del petroli",
+    "scientific": "Tuber mesentericum",
+    "label": "Tòfona del petroli (Tuber mesentericum)",
+    "description": "",
+    "image": "img/species_083.jpg",
+    "page": 47,
+    "slot": "top"
+  },
+  {
+    "id": 84,
+    "name": "Tòfona d’estiu",
+    "scientific": "Tuber aestivum",
+    "label": "Tòfona d’estiu (Tuber aestivum)",
+    "description": "",
+    "image": "img/species_084.jpg",
+    "page": 47,
+    "slot": "bottom"
+  },
+  {
+    "id": 85,
+    "name": "Tòfona magenca",
+    "scientific": "Tuber brumale",
+    "label": "Tòfona magenca (Tuber brumale)",
+    "description": "",
+    "image": "img/species_085.jpg",
+    "page": 48,
+    "slot": "top"
+  }
+]
